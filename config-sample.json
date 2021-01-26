@@ -1,0 +1,22 @@
+{
+  "woo": {
+    "storeId": "MY_STORE_ID",
+    "companyId": "MY_COMPANY_ID",
+    "orderAccount": 1234,
+    "rowAccount": 1234,
+    "shippingArticleCode": 1234,
+    "shippingTitle": "Shipping",
+    "shippingAccount": 1234,
+    "sellerContactName": "Web store",
+    "sellerContactNo": 1234,
+    "paymentTermsText": "Before delivery"
+  },
+  "mail": {
+    "from": "Sender <sender@example.com>",
+    "replyTo": "reply@example.com",
+    "to": ["receiver@example.com"],
+    "bcc": "bcc@example.com",
+    "subject": "New order",
+    "text": "XML file attached"
+  }
+}
